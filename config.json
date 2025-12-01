@@ -1,0 +1,14 @@
+{
+  "webhooks": [
+    {
+      "name": "Rich Kids",
+      "url": "https://discord.com/api/webhooks/1445159092749471815/1H_YGcSLVpKSOxMZ5VEUGF4f0hRX-AF6MrxMuvG_b4YHQIrHqn-ISET9Qbmc_y4Qn8e-"
+    }
+  ],
+  "image": [
+    {
+      "name": "Blue Meze banner",
+      "path": "./src/assets/Bannière Meze.png"
+    }
+  ]
+}
